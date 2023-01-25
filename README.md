@@ -19,7 +19,7 @@
 </picture>
 
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasfreitas"
 />
 
 <div style="display: inline_block"><br>
