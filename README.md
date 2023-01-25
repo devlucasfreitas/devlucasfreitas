@@ -18,10 +18,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=devlucasfreitas&show_icons=true" />
 </picture>
 
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasfreitas"
-/>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
