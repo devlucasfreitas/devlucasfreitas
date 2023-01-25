@@ -6,7 +6,8 @@
 <br/>
 🌱 Estudando Typescript
 
-<picture>
+<div style="display: flex">
+  <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=devlucasfreitas&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
@@ -17,6 +18,10 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=devlucasfreitas&show_icons=true" />
 </picture>
+  <img style="margin: 0 0 0 26px" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" >
+  </div>
+  
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
