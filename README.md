@@ -1,4 +1,4 @@
-<p align="center"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./titulo-header.png" /></p>
+<p align="center"><img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px" height="35"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./titulo-header.png" /><img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px" height="35"></p>
 
 ##
 
