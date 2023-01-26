@@ -18,7 +18,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=devlucasfreitas&show_icons=true" />
 </picture>
-  <img style="margin: 0 0 0 26px" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" >
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" >
   </div>
   
 
